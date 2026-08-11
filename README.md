@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
