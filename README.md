@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -69,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
