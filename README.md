@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
