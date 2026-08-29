@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Stack
 |  |
