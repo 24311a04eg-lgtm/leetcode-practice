@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0414-third-maximum-number) |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Stack
 |  |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
