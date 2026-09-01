@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
@@ -129,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
