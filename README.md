@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bubble Sort
 |  |
@@ -153,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
