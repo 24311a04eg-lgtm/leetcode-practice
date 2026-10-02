@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Bracket Sequences
 |  |
 | ------- |
