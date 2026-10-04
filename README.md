@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0735-asteroid-collision](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0896-monotonic-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0143-reorder-list) |
+| [0735-asteroid-collision](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting Sort
