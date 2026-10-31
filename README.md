@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0896-monotonic-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
