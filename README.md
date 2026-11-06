@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Bracket Sequences
 |  |
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/24311a04eg-lgtm/leetcode-practice/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
